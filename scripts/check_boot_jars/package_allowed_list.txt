@@ -225,6 +225,9 @@ org\.ifaa\.android\.manager.*
 # LMOFreeform
 com\.libremobileos\..*
 
+# LMOFreeform
+com\.libremobileos\..*
+
 # QC adds
 com.qualcomm.qti
 com.quicinc.tcmiface
